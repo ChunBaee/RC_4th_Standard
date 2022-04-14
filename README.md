@@ -36,3 +36,8 @@
 🤦🏻 ViewModel에 LiveData가 아닌 일반 MutableList 변수를 추가 후, setValue() 를 사용하여 해결했다!
 
 → 항상 LiveData는 변수만 사용해서 몰랐는데, 배열 같은 경우는 setValue() 를 사용해야 한다고 한다.
+
+
+![Screenshot_20220120-230107_RC_Standard_4](https://user-images.githubusercontent.com/80454599/163403249-236a8aed-8bb7-48eb-aad6-9d78c73b3744.jpg)
+![Screenshot_20220120-230123_RC_Standard_4](https://user-images.githubusercontent.com/80454599/163403257-218c5b03-01ff-4a32-aa77-b3c0bcb657ff.jpg)
+
